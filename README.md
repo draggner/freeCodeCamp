@@ -9,6 +9,6 @@
 
 - Aprenda CSS básico criando um menu de restaurante (iniciado)
 
-- Aprenda cores em CSS criando um conjunto de marcadores coloridos (não-iniciado)
+- Aprenda cores em CSS criando um conjunto de marcadores coloridos (em andamento)
 
 - Aprenda formulários em HTML criando um formulário de registro
