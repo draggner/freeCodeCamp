@@ -1,14 +1,7 @@
 # freeCodeCamp
 
-# Módulos da plataforma freeCodeCamp
+## Responsive Web Design Certification (RWDC)
 
-- Certificação Design Responsivo para à web (em andamento)
+### (C1) Learn HTML by Building a Cat Photo App (In progress)
 
-## Sub-módulos
-- Aprenda HTML criando um aplicativo de fotos de gatos (finalizado)
-
-- Aprenda CSS básico criando um menu de restaurante (iniciado)
-
-- Aprenda cores em CSS criando um conjunto de marcadores coloridos (em andamento)
-
-- Aprenda formulários em HTML criando um formulário de registro
+<img src="./Modules/1_Response_Web_Design/1_1_RWDC_C1/RWDC_C1.png">
