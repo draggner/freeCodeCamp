@@ -9,6 +9,7 @@ h1 {
 
 hr {
   height: 3px;
+  border-color: brown;
   background-color: brown;
 }
 
